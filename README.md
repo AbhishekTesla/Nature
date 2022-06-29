@@ -1,2 +1,2 @@
 # Nature
-Nature website 
+Responsive Nature website 
